@@ -6,6 +6,7 @@ Links to useful software, tools, resources, services
 * [Editor](#editor)
 * [File converter](#file-converter)
 * [Personal information/knowledge management, notes](#pim)
+* [See also](#see-also)
 
 ### Editor <a name="editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CutePDF Editor](https://www.cutepdf-editor.com/) - free online PDF editor.
@@ -32,7 +33,13 @@ Links to useful software, tools, resources, services
 * [Simplenote](https://simplenote.com/) - all your notes, synced on all your devices.
 * [Skrifa](https://skrifa.xyz/) - a note taking app focused on simplicity and privacy using PGP to encrypt all your notes.
 * [Standard Notes](https://standardnotes.org/) - a safe place for your notes, thoughts, and life's work. A free, open-source, and completely encrypted notes app.
+* [TreeLine](http://treeline.bellz.org/) - a structured information storage program.
 * [Trilium Notes](https://github.com/zadam/trilium) - a hierarchical note taking application with focus on building large personal knowledge bases.
 * [Turtl](https://turtlapp.com/) - secure, collaborative notebook.
+* [Zim](https://zim-wiki.org/) - a graphical text editor used to maintain a collection of wiki pages.
 * [Znote](https://znote.io/) - a beautiful and free markdown editor, built to secure notes.
 * [Zotero](https://www.zotero.org/) - a free, easy-to-use tool to help you collect, organize, cite, and share research.
+
+### See also <a name="see-also"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Development tools](https://github.com/gamtiq/dev-tools) - links to software development tools, resources, services.
+* [Front-end development tools](https://github.com/gamtiq/frontend-tools) - links to front-end development tools (mostly).
