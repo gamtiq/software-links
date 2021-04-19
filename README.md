@@ -34,6 +34,7 @@ Links to useful software, tools, resources, services
 * [Joplin](https://joplinapp.org/) - a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.
 * [massCode](https://masscode.io/) - a free and open source code snippets manager for developers. It helps you create and organize your own personal snippets collection and have quick access to it.
 * [MDyna](https://mdyna.dev/) - a markdown notes application that syncs with Github gists, and much more.
+* [MindForger](https://www.mindforger.com/) - human mind inspired personal knowledge management tool, thinking notebook and Markdown editor.
 * [Notable](https://notable.app/) - markdown-based note-taking app.
 * [Notion](https://www.notion.so/) - the all-in-one workspace for your notes, tasks, wikis, and databases.
 * [Obsidian](https://obsidian.md/) - a powerful knowledge base that works on top of a local folder of plain text Markdown files.
