@@ -32,6 +32,7 @@ Links to useful software, tools, resources, services
 * [Dendron](https://www.dendron.so/) - an open-source, local-first, markdown-based, hierarchical note-taking tool built on top of VSCode.
 * [Foam](https://foambubble.github.io/foam/) - a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
 * [Joplin](https://joplinapp.org/) - a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.
+* [Leo](http://leoeditor.com/) - a PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Outline nodes may appear in more than one place, allowing multiple organizations of data within a single outline.
 * [massCode](https://masscode.io/) - a free and open source code snippets manager for developers. It helps you create and organize your own personal snippets collection and have quick access to it.
 * [MDyna](https://mdyna.dev/) - a markdown notes application that syncs with Github gists, and much more.
 * [MindForger](https://www.mindforger.com/) - human mind inspired personal knowledge management tool, thinking notebook and Markdown editor.
