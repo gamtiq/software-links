@@ -7,6 +7,7 @@ Links to useful software, tools, resources, services
 * [File converter](#file-converter)
 * [Password manager](#password-manager)
 * [Personal information/knowledge management, notes](#pim)
+* [Time management](#time-manage)
 * [See also](#see-also)
 
 ### Editor <a name="editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -49,6 +50,10 @@ Links to useful software, tools, resources, services
 * [Zim](https://zim-wiki.org/) - a graphical text editor used to maintain a collection of wiki pages.
 * [Znote](https://znote.io/) - a beautiful and free markdown editor, built to secure notes.
 * [Zotero](https://www.zotero.org/) - a free, easy-to-use tool to help you collect, organize, cite, and share research.
+
+### Time management <a name="time-manage"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Toggl Track](https://toggl.com/track/) - time tracking for all your productivity and profitability needs.
+* [Tomighty](https://tomighty.github.io/) - a desktop timer specifically designed for the Pomodoro Technique.
 
 ### See also <a name="see-also"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Development tools](https://github.com/gamtiq/dev-tools) - links to software development tools, resources, services.
