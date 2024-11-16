@@ -3,12 +3,16 @@
 Links to useful software, tools, resources, services
 
 #### Table of contents <a name="toc"></a>
+* [Browser addon](#browser-addon)
 * [Editor](#editor)
 * [File converter](#file-converter)
 * [Password manager](#password-manager)
 * [Personal information/knowledge management, notes](#pim)
 * [Time management](#time-manage)
 * [See also](#see-also)
+
+### Browser addon <a name="browser-addon"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Tampermonkey](https://www.tampermonkey.net/) - userscript manager. [Greasy Fork](https://greasyfork.org/) - a site for user scripts.
 
 ### Editor <a name="editor"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [CutePDF Editor](https://www.cutepdf-editor.com/) - free online PDF editor.
