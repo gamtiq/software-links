@@ -9,6 +9,7 @@ Links to useful software, tools, resources, services
 * [Password manager](#password-manager)
 * [Personal information/knowledge management, notes](#pim)
 * [Time management](#time-manage)
+* [Virtualization](#virtualization)
 * [See also](#see-also)
 
 ### Browser addon <a name="browser-addon"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
@@ -58,6 +59,10 @@ Links to useful software, tools, resources, services
 ### Time management <a name="time-manage"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Toggl Track](https://toggl.com/track/) - time tracking for all your productivity and profitability needs.
 * [Tomighty](https://tomighty.github.io/) - a desktop timer specifically designed for the Pomodoro Technique.
+
+### Virtualization <a name="virtualization"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [UTM](https://getutm.app/) ([Github repo](https://github.com/utmapp/UTM)) - a full featured system emulator and virtual machine host for iOS and macOS. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.
+* [VirtualBox](https://www.virtualbox.org/) - a general-purpose full virtualization software , targeted at laptop, desktop, server and embedded use.
 
 ### See also <a name="see-also"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Development tools](https://github.com/gamtiq/dev-tools) - links to software development tools, resources, services.
