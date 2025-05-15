@@ -3,6 +3,7 @@
 Links to useful software, tools, resources, services
 
 #### Table of contents <a name="toc"></a>
+* [AI tool](#ai-tool)
 * [Browser addon](#browser-addon)
 * [Editor](#editor)
 * [File converter](#file-converter)
@@ -11,6 +12,10 @@ Links to useful software, tools, resources, services
 * [Time management](#time-manage)
 * [Virtualization](#virtualization)
 * [See also](#see-also)
+
+### AI tool <a name="ai-tool"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [LocalAI](https://localai.io/) - free, open source alternative to OpenAI, Claude and others. Run powerful language models, autonomous agents, and document intelligence locally on your hardware.
+* [Ollama](https://ollama.com/) - get up and running with large language models, locally.
 
 ### Browser addon <a name="browser-addon"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Tampermonkey](https://www.tampermonkey.net/) - userscript manager. [Greasy Fork](https://greasyfork.org/) - a site for user scripts.
