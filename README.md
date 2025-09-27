@@ -33,6 +33,7 @@ Links to useful software, tools, resources, services
 ### Password manager <a name="password-manager"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Buttercup](https://buttercup.pw/) - cross-platform passwords & secrets vault. Buttercup is an assistant for helping you store all of your login credentials.
 * [KeePass](https://keepass.info/) - free, open source, light-weight and easy-to-use password manager.
+* [KeePassDX](https://www.keepassdx.com/) - lightweight vault and password manager for Android, allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way. 
 * [KeePassXC](https://keepassxc.org/) - a modern, secure, and open-source password manager that stores and manages your most sensitive information.
 * [KeeWeb](https://keeweb.info/) - free cross-platform password manager compatible with KeePass. The app can run either in browser, or as a desktop app. It doesn't require any server or additional resources.
 * [Swifty](https://getswifty.pro/) - free offline-first password manager for MacOS, Windows and Linux.
