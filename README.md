@@ -9,6 +9,7 @@ Links to useful software, tools, resources, services
 * [File converter](#file-converter)
 * [Password manager](#password-manager)
 * [Personal information/knowledge management, notes](#pim)
+* [Synchronization](#sync)
 * [Time management](#time-manage)
 * [Virtualization](#virtualization)
 * [See also](#see-also)
@@ -61,6 +62,9 @@ Links to useful software, tools, resources, services
 * [Zim](https://zim-wiki.org/) - a graphical text editor used to maintain a collection of wiki pages.
 * [Znote](https://znote.io/) - a beautiful and free markdown editor, built to secure notes.
 * [Zotero](https://www.zotero.org/) - a free, easy-to-use tool to help you collect, organize, cite, and share research.
+
+### Synchronization <a name="sync"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
+* [Syncthing](https://syncthing.net/) - a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
 
 ### Time management <a name="time-manage"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 * [Toggl Track](https://toggl.com/track/) - time tracking for all your productivity and profitability needs.
